@@ -1,0 +1,38 @@
+package main
+ 
+import "fmt"
+ 
+func main() {
+	var s string // 3+2+1
+	fmt.Scan(&s)
+	t := []string{} // 321
+	for i := 0; i < len(s); i += 2 {
+		t = append(t, string(s[i]))
+	}
+ 
+	bubbleSort(t) // 123
+ 
+	z := "" // 1+2+3
+	for i := 0; i < len(t); i++ {
+		z += t[i]
+		if i < len(t)-1 {
+			z += "+"
+		}
+		//z += "+"
+	}
+	fmt.Println(z)
+}
+ 
+func bubbleSort(arr []string) { // general bubble sort function
+ 
+	for i := 0; i < len(arr)-1; i++ {
+ 
+		for j := 0; j < len(arr)-i-1; j++ {
+ 
+			if arr[j] > arr[j+1] {
+ 
+				arr[j], arr[j+1] = arr[j+1], arr[j]
+			}
+		}
+	}
+}
