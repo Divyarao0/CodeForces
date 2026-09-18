@@ -1,0 +1,28 @@
+package main
+ 
+import (
+	"fmt"
+)
+ 
+func main() {
+	var a int
+	var s string
+	fmt.Scan(&a)
+	fmt.Scan(&s)
+	Ant := 0
+	Din := 0
+	for i := 0; i < a; i++ {
+		if s[i] == 'A' {
+			Ant++
+		} else {
+			Din++
+		}
+	}
+	if Ant > Din {
+		fmt.Println("Anton")
+	} else if Ant < Din {
+		fmt.Println("Danik")
+	} else {
+		fmt.Println("Friendship")
+	}
+}
