@@ -1,0 +1,36 @@
+package main
+ 
+import "fmt"
+ 
+func main() {
+	var arr [5][5]int
+	row, column := 0, 0
+	Stop := false
+	for i := 0; i < 5; i++ {
+		for j := 0; j < 5; j++ {
+			fmt.Scan(&arr[i][j])
+			if arr[i][j] == 1 {
+				row = i
+				column = j
+				Stop = true
+				break
+			}
+ 
+		}
+		if Stop {
+			break
+		}
+	}
+	count := 0
+	if row > 2 {
+		count += row - 2
+	} else {
+		count += 2 - row
+	}
+	if column > 2 {
+		count += column - 2
+	} else {
+		count += 2 - column
+	}
+	fmt.Println(count)
+}
