@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 19 | 7 |
+| 20 | 7 |
 
 ---
 
@@ -15,10 +15,10 @@
 - [*special](#special) (1)
 - [brute force](#brute-force) (3)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (13)
+- [implementation](#implementation) (14)
 - [math](#math) (4)
 - [sortings](#sortings) (1)
-- [strings](#strings) (8)
+- [strings](#strings) (9)
 
 ---
 
@@ -49,6 +49,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/41/A%20-%20Translation/solution.txt) |
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/59/A%20-%20Word/solution.txt) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.txt) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/158/A%20-%20Next%20Round/solution.txt) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
@@ -82,6 +83,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/41/A%20-%20Translation/solution.txt) |
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/59/A%20-%20Word/solution.txt) |
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.txt) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.txt) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
