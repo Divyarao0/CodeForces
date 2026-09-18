@@ -1,0 +1,31 @@
+package main
+ 
+import "fmt"
+ 
+func main() {
+	var name string
+	fmt.Scan(&name) //divya
+ 
+	//count := 0
+	charSet := make(map[byte]struct{})
+	for i := 0; i < len(name); i++ {
+		// value := true
+		// for j := 0; j < i; j++ {
+		// 	if name[i] == name[j] {
+		// 		value = false
+		// 		break
+		// 	}
+ 
+		// }
+		// if value {
+		// 	count++
+		// }
+		charSet[name[i]] = struct{}{}
+	}
+ 
+	if len(charSet)%2 == 0 {
+		fmt.Println("CHAT WITH HER!")
+	} else {
+		fmt.Println("IGNORE HIM!")
+	}
+}
