@@ -1,0 +1,44 @@
+package main
+ 
+import "fmt"
+ 
+func main() {
+	var t int
+	fmt.Scan(&t)
+	arr := make([]int, t)
+	for i := 0; i < t; i++ {
+		fmt.Scan(&arr[i])
+	}
+	for i := 0; i < t; i++ {
+		n := arr[i]
+		//divisble by 6 = divisble by 2 and 3 both
+		two := 0
+		three := 0
+		ans := 0
+ 
+		for n%2 == 0 {
+			n = n / 2
+			two++
+		}
+ 
+		for n%3 == 0 {
+			n = n / 3
+			three++
+		}
+ 
+		if n != 1 {
+			fmt.Println("-1")
+			continue
+		}
+ 
+		if two > three {
+			fmt.Println("-1")
+			continue
+		}
+ 
+		ans = three
+		ans += three - two
+		fmt.Println(ans)
+	}
+ 
+}
