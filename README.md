@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 16 | 7 |
+| 19 | 7 |
 
 ---
 
@@ -15,10 +15,10 @@
 - [*special](#special) (1)
 - [brute force](#brute-force) (3)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (11)
-- [math](#math) (3)
+- [implementation](#implementation) (13)
+- [math](#math) (4)
 - [sortings](#sortings) (1)
-- [strings](#strings) (7)
+- [strings](#strings) (8)
 
 ---
 
@@ -53,10 +53,12 @@
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/158/A%20-%20Next%20Round/solution.txt) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.txt) |
+| 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.txt) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.txt) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.txt) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/520/A%20-%20Pangram/solution.txt) |
+| 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.txt) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.txt) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.txt) |
 
@@ -67,6 +69,7 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/4/A%20-%20Watermelon/solution.txt) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/50/A%20-%20Domino%20piling/solution.txt) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/617/A%20-%20Elephant/solution.txt) |
+| 1374B | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1374/B%20-%20Multiply%20by%202%2C%20divide%20by%206/solution.txt) |
 
 ### sortings
 
@@ -85,6 +88,7 @@
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.txt) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/520/A%20-%20Pangram/solution.txt) |
+| 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.txt) |
 
 ---
 
