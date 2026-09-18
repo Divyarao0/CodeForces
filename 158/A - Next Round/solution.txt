@@ -1,0 +1,23 @@
+package main
+ 
+import "fmt"
+ 
+func main() {
+	var n, k int
+	fmt.Scan(&n, &k)
+	score := make([]int, n)
+	for i := 0; i < n; i++ {
+		fmt.Scan(&score[i])
+	}
+	k_score := score[k-1]
+	advancer := 0
+	for i := 0; i < n; i++ {
+		if score[i] >= k_score && score[i] > 0 {
+			advancer++
+		} else {
+			break
+		}
+	}
+	fmt.Println(advancer)
+ 
+}
