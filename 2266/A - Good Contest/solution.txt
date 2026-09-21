@@ -1,0 +1,28 @@
+package main
+ 
+import "fmt"
+ 
+func main() {
+	var t int
+	fmt.Scan(&t)
+ 
+	var a [3000]int
+	var ans [3000]int
+	for i := 0; i < t; i++ {
+		var n int
+		fmt.Scan(&n)
+		fmt.Scan(&a[0], &a[1], &a[2])
+ 
+		min := a[0]
+		if a[1] < min {
+			min = a[1]
+		}
+		if a[2] < min {
+			min = a[2]
+		}
+		ans[i] = n - min
+	}
+	for i := 0; i < t; i++ {
+		fmt.Println(ans[i])
+	}
+}
