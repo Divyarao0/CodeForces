@@ -1,0 +1,31 @@
+package main
+ 
+import "fmt"
+ 
+func main() {
+	var t int
+	fmt.Scan(&t)
+	var a, b, c int64
+	var ans [10000]int64
+	for i := 0; i < t; i++ {
+		fmt.Scan(&a, &b, &c)
+		diff := a - b
+		if diff < 0 {
+			diff = -diff
+		}
+		x := a + c - b
+		if x < 0 {
+			x = -x
+		}
+		if diff > x {
+			ans[i] = diff
+		} else {
+			ans[i] = x
+		}
+ 
+	}
+	for i := 0; i < t; i++ {
+		fmt.Println(ans[i])
+	}
+ 
+}
