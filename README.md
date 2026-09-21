@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 23 | 7 |
+| 25 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
+- [Uncategorized](#uncategorized) (2)
 - [brute force](#brute-force) (4)
 - [greedy](#greedy) (3)
 - [implementation](#implementation) (17)
@@ -27,6 +28,13 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/158/A%20-%20Next%20Round/solution.txt) |
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | Unrated | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2266/A%20-%20Good%20Contest/solution.txt) |
+| 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | Unrated | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2266/B%20-%20Three%20Piles/solution.txt) |
 
 ### brute force
 
