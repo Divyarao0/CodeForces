@@ -1,0 +1,29 @@
+package main
+ 
+import "fmt"
+ 
+func main() {
+	var t int
+	fmt.Scan(&t)
+	a := make([]int, t)
+	b := make([]int, t)
+	// var move [3000]int
+	move := make([]int, t)
+	for i := 0; i < t; i++ {
+		fmt.Scan(&a[i], &b[i])
+	}
+	reminder := make([]int, t)
+	for i := 0; i < t; i++ {
+		reminder[i] = a[i] % b[i]
+		if reminder[i] == 0 {
+			move[i] = 0
+		} else {
+			move[i] = b[i] - reminder[i]
+ 
+		}
+ 
+	}
+	for i := 0; i < t; i++ {
+		fmt.Println(move[i])
+	}
+}
