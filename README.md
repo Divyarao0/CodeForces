@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 27 | 8 |
+| 28 | 8 |
 
 ---
 
@@ -15,11 +15,11 @@
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (2)
 - [brute force](#brute-force) (4)
-- [greedy](#greedy) (3)
+- [greedy](#greedy) (4)
 - [implementation](#implementation) (18)
 - [math](#math) (6)
 - [sortings](#sortings) (1)
-- [strings](#strings) (9)
+- [strings](#strings) (10)
 
 ---
 
@@ -52,6 +52,7 @@
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/50/A%20-%20Domino%20piling/solution.txt) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/231/A%20-%20Team/solution.txt) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
+| 2266C | [AND, OR, Sort!](https://codeforces.com/contest/2266/problem/C) | Unrated | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2266/C%20-%20AND%2C%20OR%2C%20Sort!/solution.txt) |
 
 ### implementation
 
@@ -106,6 +107,7 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/520/A%20-%20Pangram/solution.txt) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.txt) |
+| 2266C | [AND, OR, Sort!](https://codeforces.com/contest/2266/problem/C) | Unrated | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/2266/C%20-%20AND%2C%20OR%2C%20Sort!/solution.txt) |
 
 ---
 
