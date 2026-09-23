@@ -1,0 +1,45 @@
+package main
+ 
+import (
+	"bufio"
+	"fmt"
+	"os"
+	"strings"
+)
+ 
+func solve(s string) int { // s=010110
+	zeros := strings.Count(s, "0") // 3
+ 
+	if s[0] == '1' {
+		return zeros
+	}
+ 
+ 
+	best := zeros // 3 -> 2             start  -> s[0] -> s[1] -> s[2] -> s[3] -> s[4] -> s[5]
+	onesLeft, zerosRight := 0, zeros //  0, 3   -> 0, 2 -> 1, 2 -> 1, 1 -> 2, 1 -> 3, 1 -> 3, 0
+	for i := 0; i < len(s); i++ {
+		if s[i] == '1' { // f
+			onesLeft++
+		} else {
+			zerosRight--
+		}
+		best = min(best, onesLeft+zerosRight) // 3 -> 2 -> 2 -> 2 -> 2 -> 2 -> 2
+	}
+	return best // 2
+}
+ 
+func main() {
+	in := bufio.NewReader(os.Stdin)
+	out := bufio.NewWriter(os.Stdout)
+	defer out.Flush()
+ 
+	var t int
+	fmt.Fscan(in, &t)
+	for ; t > 0; t-- {
+		var n int
+		var s string
+		fmt.Fscan(in, &n, &s)
+		fmt.Fprintln(out, solve(s)) // 2
+	}
+}
+ 
