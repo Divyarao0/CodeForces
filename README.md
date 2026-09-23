@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 25 | 8 |
+| 26 | 8 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (2)
 - [brute force](#brute-force) (4)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (17)
+- [implementation](#implementation) (18)
 - [math](#math) (5)
 - [sortings](#sortings) (1)
 - [strings](#strings) (9)
@@ -61,6 +61,7 @@
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/59/A%20-%20Word/solution.txt) |
 | 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.txt) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.txt) |
+| 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/116/A%20-%20Tram/solution.txt) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/158/A%20-%20Next%20Round/solution.txt) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.txt) |
