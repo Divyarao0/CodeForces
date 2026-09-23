@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 26 | 8 |
+| 27 | 8 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [brute force](#brute-force) (4)
 - [greedy](#greedy) (3)
 - [implementation](#implementation) (18)
-- [math](#math) (5)
+- [math](#math) (6)
 - [sortings](#sortings) (1)
 - [strings](#strings) (9)
 
@@ -84,6 +84,7 @@
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/50/A%20-%20Domino%20piling/solution.txt) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.txt) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/617/A%20-%20Elephant/solution.txt) |
+| 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.txt) |
 | 1374B | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | 900 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/1374/B%20-%20Multiply%20by%202%2C%20divide%20by%206/solution.txt) |
 
 ### sortings
