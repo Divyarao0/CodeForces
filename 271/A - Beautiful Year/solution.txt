@@ -1,0 +1,34 @@
+package main
+ 
+import (
+	"fmt"
+	"strconv"
+)
+ 
+func main() {
+	var y int
+	fmt.Scan(&y)
+ 
+	for year := y + 1; ; year++ {
+		s := strconv.Itoa(year)
+		valid := true
+		for i := 0; i < len(s); i++ {
+			for j := i + 1; j < len(s); j++ {
+ 
+				if s[i] == s[j] {
+					valid = false
+					break
+ 
+				}
+				if !valid {
+					break
+				}
+			}
+ 
+		}
+		if valid {
+			fmt.Println(year)
+			break
+		}
+	}
+}
