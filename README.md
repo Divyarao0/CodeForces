@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 28 | 8 |
+| 29 | 8 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (2)
-- [brute force](#brute-force) (4)
+- [brute force](#brute-force) (5)
 - [greedy](#greedy) (4)
 - [implementation](#implementation) (18)
 - [math](#math) (6)
@@ -43,6 +43,7 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/4/A%20-%20Watermelon/solution.txt) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/231/A%20-%20Team/solution.txt) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
+| 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.txt) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Go](https://github.com/Divyarao0/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.txt) |
 
 ### greedy
